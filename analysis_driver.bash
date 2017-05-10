@@ -32,5 +32,5 @@ code/mothur/mothur code/get_good_seqs.batch
 # Run mock community data through mothur to calculate the sequencing error rates
 code/mothur/mothur code/get_error.batch
 
-
-
+#cluster the otus
+code/mothur/mothur code/get_shared_otus.batch
