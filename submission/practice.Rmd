@@ -50,6 +50,9 @@ between the early and late periods and increased stabilization with age
 indicate that our approach can be scaled to multiplex large numbers of
 samples.
 
+
+![](/home/ubuntu/Kozich_ReAnalysis_AEM_2013/practice_files/figure-html/unnamed-chunk-2-1.png)
+
 **FIG 4** Principal coordinate ordination of YC values (28) relating the
 community structures of the fecal microbiota from 12 mice collected on days
 0 through 9 (Early) and days 141 through 150 (Late) after weaning.
