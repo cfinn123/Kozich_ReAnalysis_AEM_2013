@@ -75,7 +75,7 @@ indicate that our approach can be scaled to multiplex large numbers of
 samples.
 
 
-![](/home/ubuntu/Kozich_ReAnalysis_AEM_2013/practice_files/figure-html/unnamed-chunk-2-1.png)
+![](../results/figures/nmds_figure.png)
 
 **FIG 4** Principal coordinate ordination of YC values (28) relating the
 community structures of the fecal microbiota from 12 mice collected on days
